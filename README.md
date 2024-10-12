@@ -1,11 +1,9 @@
 # Desafio-3-DNC---SQL-MetaBase
 Análise de dados de uma Edtech utlizando o MetaBase e SQL .
 
-Aqui está um exemplo de como você pode estruturar o arquivo README para o desafio realizado em SQL utilizando o Metabase:
-
 ---
 
-# Desafio: Gere Planos de Ação a partir de Análises com SQL
+# Desafio: Gerando Planos de Ação a partir de Análises com SQL
 
 ## Descrição
 
@@ -18,6 +16,7 @@ Você atua como um analista de dados em uma Edtech, e o foco da empresa é acele
 ## Objetivo
 
 - Construir um dashboard interativo usando SQL no Metabase.
+
 - Fornecer insights baseados em gráficos e tabelas, destacando aspectos como:
   - Distribuição por gênero.
   - Média de idade dos leads.
