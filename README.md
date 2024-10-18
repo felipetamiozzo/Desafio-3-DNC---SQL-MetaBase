@@ -1,9 +1,5 @@
-# Desafio-3-DNC---SQL-MetaBase
+# SQL para Análise de dados 
 Análise de dados de uma Edtech utlizando o MetaBase e SQL .
-
----
-
-# Desafio: Gerando Planos de Ação a partir de Análises com SQL
 
 ## Descrição
 
